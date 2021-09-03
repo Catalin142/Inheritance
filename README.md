@@ -10,3 +10,6 @@ Run GenerateProject.bat
 # How to play
 - W A S D for movement
 - Right click and/or left click for attack
+
+# Screenshots
+![Banner]
