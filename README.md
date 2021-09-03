@@ -1,8 +1,6 @@
 # Inheritance
 olcCodeJam Entry
-Game made in 5 days using:
-- OpenGL
-- FreeType-gl
+Game made in 5 days in OpenGL.
 
 # How to build
 Run GenerateProject.bat
