@@ -12,4 +12,4 @@ Run GenerateProject.bat
 - Right click and/or left click for attack
 
 # Screenshots
-![Banner]
+![Banner](Screenshots/Banner.png)
