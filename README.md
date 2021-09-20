@@ -10,4 +10,5 @@ Run GenerateProject.bat
 - Right click and/or left click for attack
 
 # Screenshots
+![Scor](Screenshots/Scor.png)
 ![Banner](Screenshots/Banner.png)
